@@ -15,7 +15,7 @@ I graduated from the University of Auckland with a Bachelor of Science majoring 
 
 ## Pinned Items:
 1. Redux-Boilerplate (Personal project that needs the README files updated and testing completed)
-2. Horoeka/raphael-pizza - EDA group project
-3. Horoeka/kapture - Bootcamp final group project for graduation from EDA
-4. shellymutu-grigg.github.io - EDA foundations work blog
-5. Horoeka/beatle-tunes_team-paul - EDA group project
+2. Horoeka/kapture - Bootcamp final group project for graduation from EDA
+3. Horoeka/raphael-r-pizza-roulette - EDA group project
+4. Horoeka/beatle-tunes_team-paul - EDA group project
+5. shellymutu-grigg.github.io - EDA foundations work blog
