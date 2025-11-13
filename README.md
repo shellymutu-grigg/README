@@ -1,22 +1,22 @@
 
 
-** README
+# README
 
 Overview of Shelly (Michelle) Mutu‑Grigg
 
 ⸻
 
-🔗 ** LinkedIn
+🔗 # LinkedIn
 
 linkedin.com/in/shellymutugrigg￼
 
-💻 ** GitHub
+💻 # GitHub
 
 github.com/shellymutu-grigg￼
 
 ⸻
 
-🎓 ** Education & Certifications
+🎓 # Education & Certifications
 	•	Master of Artificial Intelligence – University of Auckland (In progress)
 	•	Full-Stack Web Development – Enspiral Dev Academy
 	•	AWS Certified Cloud Practitioner – AWS
@@ -27,7 +27,7 @@ github.com/shellymutu-grigg￼
 
 ⸻	
 
-🧠 ** About Me
+🧠 # About Me
 
 I am a Senior QA Automation Engineer, Software Engineer, and Full‑Stack Developer with extensive experience across automation engineering, agile delivery, cloud development, and intelligent systems design. Currently completing a Master of Artificial Intelligence at the University of Auckland, I blend practical engineering expertise with emerging AI capabilities to build robust, scalable and trustworthy systems.
 
@@ -41,7 +41,7 @@ I am passionate about:
 
 ⸻
 
-🧩 ** Technical Skills
+🧩 # Technical Skills
 
 Skills Matrix
 
@@ -53,9 +53,7 @@ Testing & QA			 Playwright, Cypress, Selenium, Cucumber, Jest, K6
 DevOps & Cloud			 AWS, Azure, Docker, Terraform, GitHub Actions, Azure DevOps
 AI/ML					 Python, NLP, LLM fine-tuning, Summarisation Models, Transformers
 
-⸻
-
-🔰 ** Badges
+🔰 ## Badges
 
 - See linked in profile
 
@@ -89,7 +87,7 @@ SAP, BI, enterprise testing for Vector, Chorus, Fonterra, NZTA.
 </details>
 
 
-🚀 ** Career Snapshot
+🚀 # Career Snapshot
 
 Data Scientist (Internship) – Te Hiku Media (2025–Present)
 
@@ -113,7 +111,7 @@ Delivered enterprise SAP, BI, and business transformation testing at Vector, Cho
 
 ⸻
 
-🎓 ** Education & Certifications
+🎓 # Education & Certifications
 	•	Master of Artificial Intelligence – University of Auckland (In progress)
 	•	Full‑Stack Web Development – Enspiral Dev Academy
 	•	AWS Certified Cloud Practitioner
@@ -124,7 +122,7 @@ Delivered enterprise SAP, BI, and business transformation testing at Vector, Cho
 
 ⸻
 
-📌 ** Pinned Repositories
+📌 # Pinned Repositories
 	1.	infosys_722_iteration_04 – Python Data Mining project for UoA AI coursework
 	2.	digihlth704_prsp_ortho_a03 – TypeScript‑based design for an Online Patient Records Portal
 	3.	CSharp.Web.API – Personal project developing C# Web API proficiency
@@ -133,7 +131,7 @@ Delivered enterprise SAP, BI, and business transformation testing at Vector, Cho
 
 ⸻
 
-🧭 ** Professional Focus Areas
+🧭 # Professional Focus Areas
 	•	Intelligent Automation & Quality Engineering
 	•	AI‑Enhanced Workflows & LLM Application Development
 	•	CI/CD and Cloud‑Native Engineering
@@ -142,7 +140,7 @@ Delivered enterprise SAP, BI, and business transformation testing at Vector, Cho
 
 ⸻
 
-✨ ** Interests
+✨ # Interests
 	•	AI safety, interpretability, and trustworthy LLM design
 	•	Multimodal and low‑resource language modelling
 	•	Māori language technology and digital revitalisation initiatives
@@ -150,7 +148,7 @@ Delivered enterprise SAP, BI, and business transformation testing at Vector, Cho
 
 ⸻
 
-📫 ** Contact
+📫 # Contact
 
 For collaboration or project enquiries, feel free to reach out via LinkedIn or GitHub.
 
