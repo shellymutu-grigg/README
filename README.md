@@ -14,8 +14,8 @@ I have experience in React, Redux, Node, SQLite3, Postgres, CSS, HTML & Git/GitH
 I graduated from the University of Auckland with a Bachelor of Science majoring in Computer Science in 2003.  In 2020 I made a career decision and reconnected with my development roots.  I have now graduated from Enspiral Dev Academy as a full-stack web developer.  
 
 ## Pinned Items:
-1. Redux-Boilerplate (Personal project that needs the README files updated and testing completed)
-2. Horoeka/kapture - Bootcamp final group project for graduation from EDA
-3. Horoeka/raphael-r-pizza-roulette - EDA group project
-4. Horoeka/beatle-tunes_team-paul - EDA group project
-5. shellymutu-grigg.github.io - EDA foundations work blog
+1. nextjs-graphQL-typescript-practice (Personal project to develop next-js, graphQL and typescript confidence)
+2. playwright-example (Personal project to develop playwright confidence)
+3. CSharp.Web.API (Personal project to develop C# Web API confidence)
+4. infosys_722_iteration_04 (Python Data Mining project for UoA Master in AI paper)
+5. digihlth704_prsp_ortho_a03 (Typescipt based design for an Online Patient Records Search Portal or UoA Master in AI paper)
