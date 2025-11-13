@@ -1,28 +1,31 @@
 README
 
-<!-- Dark-mode friendly styling -->
-
-
-<style>
-  img, svg { filter: brightness(0.95) contrast(1.05); }
-  @media (prefers-color-scheme: dark) {
-    img, svg { filter: brightness(1.2) contrast(1.1); }
-  }
-</style>
-
-
 **
 
 Overview of Shelly (Michelle) Mutu‑Grigg
 
 ⸻
 
-🔗 Links
+🔗 LinkedIn
 
+linkedin.com/in/shellymutugrigg￼
+
+💻 GitHub
+
+github.com/shellymutu-grigg￼
 
 ⸻
 
-🏅 Certifications
+🎓 Education & Certifications
+	•	Master of Artificial Intelligence – University of Auckland (In progress)
+	•	Full-Stack Web Development – Enspiral Dev Academy
+	•	AWS Certified Cloud Practitioner – AWS
+	•	Azure Cloud Fundamentals (AZ-900) – Microsoft
+	•	Professional Scrum Master – Assurity
+	•	ISTQB Advanced Test Manager – Certified
+	•	BSc Computer Science – University of Auckland
+
+⸻	
 
 🧠 About Me
 
@@ -42,23 +45,19 @@ I am passionate about:
 
 Skills Matrix
 
-Area	Technologies
-Frontend	React, Next.js, TypeScript, JavaScript, Material-UI
-Backend	Node.js, Express, C#, .NET, Python, SQL, GraphQL
-Testing & QA	Playwright, Cypress, Selenium, Cucumber, Jest, K6
-DevOps & Cloud	AWS, Azure, Docker, Terraform, GitHub Actions, Azure DevOps
-AI/ML	Python, NLP, LLM fine-tuning, Summarisation Models, Transformers
+Area					 Technologies
+Frontend				 React, Next.js, TypeScript/JavaScript, Material-UI
+Languages & Frameworks:  Javascript / Typescript, Python, C#, Java
+Backend	Node.js, 		 Express, C#, .NET, Python, SQL, GraphQL
+Testing & QA			 Playwright, Cypress, Selenium, Cucumber, Jest, K6
+DevOps & Cloud			 AWS, Azure, Docker, Terraform, GitHub Actions, Azure DevOps
+AI/ML					 Python, NLP, LLM fine-tuning, Summarisation Models, Transformers
 
-Badges
+⸻
 
-Languages & Frameworks
+🔰 Badges
 
-Testing & Automation
-
-Cloud & DevOps
-
-Platforms & Tools
-
+- See linked in profile
 
 ⸻
 
